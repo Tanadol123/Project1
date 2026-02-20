@@ -6,5 +6,7 @@
 5) Run the rest of the project block by block
 
 *Important Note* :  1) If you are running this code in a local environment, you can read the CSV file directly using pandas
+
                     2) Run the second code block under the "Upload File" section specifically labeled for Local Use.
+                    
                     3) Ensure the .csv file is in the same directory as the notebook. 
